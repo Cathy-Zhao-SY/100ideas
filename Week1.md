@@ -15,4 +15,4 @@ Lossless compression is the other kind of image file compression without losing 
 - documents
 Metadata should contain the size of the document, the time when a file was created, and the author of the document etc.
 - social medias
-Metadata can help you find people you are familiar with easily。
+Metadata can help you find people you are familiar with easily.
