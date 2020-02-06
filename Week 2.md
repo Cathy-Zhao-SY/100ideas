@@ -1,0 +1,3 @@
+**_what the Internet is and how it came to be. Give both a technical explination (that a friend or any other regular person would understand) as well as historical context._**
+
+Internet was created for a comprehensive collection of the world's published knowledge, and they collected thousands of materials in order to acheive this ambious goal. This is how the Mundaneum was reated. Due to the development of technology, everyone can carry wireless cellphones. Internet is also used in artificial satellite, putting the first atronaut to the moon, and communication system that could survive a nuclear attack. For instance, Baran designed a communication system that can break down messages into blocks, and send them to various paths and reassemble them together at the end. 
